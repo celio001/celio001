@@ -1,21 +1,21 @@
-Hello, I'm Célio Backend developer
+# Olá! 👋 Sou o Célio Máximo Vieira Junior
 
-##
+**Desenvolvedor Backend | Especialista em Golang & Automação**
 
-![Anurag's GitHub Status](https://github-readme-stats.vercel.app/api?username=celio001&show_icons=true&theme=dark)
+Sou um engenheiro de software focado na construção de APIs de alta performance, microsserviços escaláveis e automação de processos corporativos. Gosto de criar soluções que resolvem problemas reais, sempre priorizando arquitetura limpa (Clean Architecture), segurança e boas práticas de código.
 
-## Technologies I use in my daily life
+### 🛠️ Minha Stack Principal
 
-<img title="Python" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+</div>
 
-Passionate about technology and software development, now as a backend developer, focusing on Python, Flask, Django and automations. I have experience in databases, APIs and cloud deployments. Always exploring new technologies and improving my skills!
+### 📫 Vamos conectar-nos?
 
-
-## Let's connect🤝
-<a href="https://www.linkedin.com/in/c%C3%A9lio-junior-aa7700215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxVyP%2BHvzQoC5B3iTE5lA5A%3D%3D" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@dominio.com)
