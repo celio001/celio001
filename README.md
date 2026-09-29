@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o Célio Máximo Vieira Junior
+# Olá! 👋 Sou o Célio Junior
 
 **Desenvolvedor Backend | Especialista em Golang & Automação**
 
