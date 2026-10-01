@@ -1,8 +1,8 @@
 # Olá! 👋 Sou o Célio Junior
 
-**Desenvolvedor Backend | Especialista em Golang & Automação**
+**Desenvolvedor Backend | Golang & Python
 
-Sou um engenheiro de software focado na construção de APIs de alta performance, microsserviços escaláveis e automação de processos corporativos. Gosto de criar soluções que resolvem problemas reais, sempre priorizando arquitetura limpa (Clean Architecture), segurança e boas práticas de código.
+Sou um desenvolvedor de software focado em backend, microsserviços escaláveis e automação de processos corporativos. Gosto de criar soluções que resolvem problemas, sempre priorizando arquitetura limpa (Clean Architecture), segurança e boas práticas de código.
 
 ### 🛠️ Minha Stack Principal
 
